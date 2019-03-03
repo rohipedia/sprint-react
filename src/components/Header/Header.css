@@ -1,0 +1,16 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: auto;
+  width: 120px;
+  pointer-events: none;
+}
+
+.sprint-welcome {
+  margin-left: 75px;
+  margin-top: 40px;
+}
